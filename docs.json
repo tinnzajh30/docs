@@ -17,7 +17,7 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "Cara Membeli Hosting",
+              "Cara membeli Hosting",
               "development"
             ]
           },
@@ -77,13 +77,13 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "https://tinnzstore.com/s25/tsl2.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@tinnzstore.com"
       }
     ],
     "primary": {
@@ -94,9 +94,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "whatsapp": "https://wa.me/6287844812351",
+      "github": "https://github.com/tinnajh30",
+      "discord": "https://tinnzstore.com/discord"
     }
   }
 }
